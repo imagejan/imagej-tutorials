@@ -3,10 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - beakerx
-  - jupyter_contrib_nbextensions
-  - numpy
   - openjdk=8
-  - pandas
   - pyimagej
   - python=3.6
   - rise
