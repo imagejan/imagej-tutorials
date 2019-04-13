@@ -2,7 +2,6 @@ name: scijava
 channels:
   - conda-forge
 dependencies:
-  - beakerx
   - openjdk=8
   - pyimagej
   - python=3.6
