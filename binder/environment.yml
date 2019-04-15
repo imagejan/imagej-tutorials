@@ -2,8 +2,9 @@ name: scijava
 channels:
   - conda-forge
 dependencies:
+  - jupyter_contrib_extensions
   - openjdk=8
   - pyimagej
-  - python=3.6
+  - python
   - rise
   - scikit-image
