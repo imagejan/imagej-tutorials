@@ -2,7 +2,7 @@ name: scijava
 channels:
   - conda-forge
 dependencies:
-  - jupyter_contrib_extensions
+  - jupyter_contrib_nbextensions
   - openjdk=8
   - pyimagej
   - python
