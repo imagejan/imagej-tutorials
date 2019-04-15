@@ -1,1 +1,3 @@
 conda install beakerx
+mvn dependency:get -DremoteRepositories=imagej.public::default::https://maven.imagej.net/content/groups/public -Dartifact=net.imagej:imagej:2.0.0-rc-71
+mvn dependency:get -DremoteRepositories=imagej.public::default::https://maven.imagej.net/content/groups/public -Dartifact=sc.fiji:fiji:2.0.0-pre-10
