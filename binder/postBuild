@@ -1,1 +1,2 @@
 conda install beakerx
+jupyter nbconvert --execute --ExecutePreprocessor.timeout=300 notebooks/1-Using-ImageJ/1-Fundamentals.ipynb
